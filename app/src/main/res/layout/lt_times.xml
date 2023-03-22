@@ -1,0 +1,537 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/lt_times" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_lt_times_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__lt_times_ek2"
+					android:background="@drawable/_bg__lt_times_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+				<View   android:id="@+id/white_base_ek9"
+					android:background="@drawable/white_base_ek9_shape"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="301dp"
+					android:layout_width="432dp"
+					android:layout_height="615dp" />
+
+
+				<RelativeLayout android:id="@+id/yoga_trainers_list_ek1"
+					android:layout_marginTop="347dp"
+					android:layout_marginStart="-2dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/yoga_trainer_ek8"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_56_ek12"
+							android:background="@drawable/rectangle_56_ek12_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="392dp"
+							android:layout_height="117dp" />
+
+						<TextView android:id="@+id/kiara_johnson_ek1"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="14sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="21dp"
+							android:layout_width="113dp"
+							android:layout_height="24dp"
+							android:text="@string/kiara_johnson_ek1_string"
+							 />
+
+						<TextView android:id="@+id/yoga_trainer_ek9"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="39dp"
+							android:layout_width="87dp"
+							android:layout_height="20dp"
+							android:text="@string/yoga_trainer_ek9_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/group_92_ek6"
+							android:layout_marginTop="82dp"
+							android:layout_marginStart="264dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/view_profile_ek4"
+								android:fontFamily="Raleway"
+								android:textSize="12sp"
+								android:textColor="@color/view_profile_color"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="83dp"
+								android:layout_height="20dp"
+								android:text="@string/view_profile_ek4_string"
+								 />
+
+
+							<RelativeLayout android:id="@+id/arrow_right_ek12"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="62dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek21"
+									android:src="@drawable/vector_ek21"
+									android:contentDescription="vector_ek21"
+									 android:layout_marginStart="1.5dp"
+									android:layout_marginTop="2.25dp"
+									android:layout_width="12dp"
+									android:layout_height="10.49dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_10_00_am___12_00_pm_ek1"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="84dp"
+							android:layout_width="129dp"
+							android:layout_height="20dp"
+							android:text="@string/_10_00_am___12_00_pm_ek1_string"
+							 />
+
+						<TextView android:id="@+id/thursday__dec__8_ek2"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="70dp"
+							android:layout_width="110dp"
+							android:layout_height="20dp"
+							android:text="@string/thursday__dec__8_ek2_string"
+							 />
+
+						<View   android:id="@+id/pexels_photo_9382975_2_ek4"
+							android:background="@drawable/pexels_photo_9382975_2_ek4_shape"
+							 android:alpha="0.20000000298023"
+							 android:layout_marginStart="32dp"
+							android:layout_marginTop="20dp"
+							android:layout_width="75dp"
+							android:layout_height="75dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yoga_trainer_ek10"
+						android:layout_marginTop="130dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_56_ek13"
+							android:background="@drawable/rectangle_56_ek13_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="392dp"
+							android:layout_height="117dp" />
+
+						<TextView android:id="@+id/diane_clarkson_ek1"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="14sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="21dp"
+							android:layout_width="120dp"
+							android:layout_height="24dp"
+							android:text="@string/diane_clarkson_ek1_string"
+							 />
+
+						<TextView android:id="@+id/yoga_trainer_ek11"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="38dp"
+							android:layout_width="87dp"
+							android:layout_height="20dp"
+							android:text="@string/yoga_trainer_ek11_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/group_92_ek7"
+							android:layout_marginTop="82dp"
+							android:layout_marginStart="264dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/view_profile_ek5"
+								android:fontFamily="Raleway"
+								android:textSize="12sp"
+								android:textColor="@color/view_profile_color"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="83dp"
+								android:layout_height="20dp"
+								android:text="@string/view_profile_ek5_string"
+								 />
+
+
+							<RelativeLayout android:id="@+id/arrow_right_ek13"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="62dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek22"
+									android:src="@drawable/vector_ek22"
+									android:contentDescription="vector_ek22"
+									 android:layout_marginStart="1.5dp"
+									android:layout_marginTop="2.25dp"
+									android:layout_width="12dp"
+									android:layout_height="10.49dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_1_00___2_30_pm_ek2"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="84dp"
+							android:layout_width="95dp"
+							android:layout_height="20dp"
+							android:text="@string/_1_00___2_30_pm_ek2_string"
+							 />
+
+						<TextView android:id="@+id/thursday__dec__8_ek3"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="70dp"
+							android:layout_width="110dp"
+							android:layout_height="20dp"
+							android:text="@string/thursday__dec__8_ek3_string"
+							 />
+
+						<View   android:id="@+id/pexels_photo_9382975_2_ek5"
+							android:background="@drawable/pexels_photo_9382975_2_ek5_shape"
+							 android:alpha="0.20000000298023"
+							 android:layout_marginStart="32dp"
+							android:layout_marginTop="20dp"
+							android:layout_width="75dp"
+							android:layout_height="75dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yoga_trainer_ek12"
+						android:layout_marginTop="259dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_56_ek14"
+							android:background="@drawable/rectangle_56_ek14_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="392dp"
+							android:layout_height="117dp" />
+
+						<TextView android:id="@+id/kimberly_nguyen_ek1"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="14sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="23dp"
+							android:layout_width="135dp"
+							android:layout_height="24dp"
+							android:text="@string/kimberly_nguyen_ek1_string"
+							 />
+
+						<TextView android:id="@+id/yoga_trainer_ek13"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="39dp"
+							android:layout_width="87dp"
+							android:layout_height="20dp"
+							android:text="@string/yoga_trainer_ek13_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/group_92_ek8"
+							android:layout_marginTop="82dp"
+							android:layout_marginStart="264dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/view_profile_ek6"
+								android:fontFamily="Raleway"
+								android:textSize="12sp"
+								android:textColor="@color/view_profile_color"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="83dp"
+								android:layout_height="20dp"
+								android:text="@string/view_profile_ek6_string"
+								 />
+
+
+							<RelativeLayout android:id="@+id/arrow_right_ek14"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="62dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek23"
+									android:src="@drawable/vector_ek23"
+									android:contentDescription="vector_ek23"
+									 android:layout_marginStart="1.5dp"
+									android:layout_marginTop="2.25dp"
+									android:layout_width="12dp"
+									android:layout_height="10.49dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_7_30___9_00_am_ek1"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="84dp"
+							android:layout_width="97dp"
+							android:layout_height="20dp"
+							android:text="@string/_7_30___9_00_am_ek1_string"
+							 />
+
+						<TextView android:id="@+id/friday__dec__9_ek2"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="70dp"
+							android:layout_width="92dp"
+							android:layout_height="20dp"
+							android:text="@string/friday__dec__9_ek2_string"
+							 />
+
+						<View   android:id="@+id/pexels_photo_9382975_2_ek6"
+							android:background="@drawable/pexels_photo_9382975_2_ek6_shape"
+							 android:alpha="0.20000000298023"
+							 android:layout_marginStart="32dp"
+							android:layout_marginTop="20dp"
+							android:layout_width="75dp"
+							android:layout_height="75dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/yoga_trainer_ek14"
+						android:layout_marginTop="388dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_56_ek15"
+							android:background="@drawable/rectangle_56_ek15_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="392dp"
+							android:layout_height="117dp" />
+
+						<TextView android:id="@+id/trina_tan_ek1"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="14sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="23dp"
+							android:layout_width="80dp"
+							android:layout_height="24dp"
+							android:text="@string/trina_tan_ek1_string"
+							 />
+
+						<TextView android:id="@+id/yoga_trainer_ek15"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="40dp"
+							android:layout_width="87dp"
+							android:layout_height="20dp"
+							android:text="@string/yoga_trainer_ek15_string"
+							 />
+
+
+						<RelativeLayout android:id="@+id/group_92_ek9"
+							android:layout_marginTop="84dp"
+							android:layout_marginStart="264dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<TextView android:id="@+id/view_profile_ek7"
+								android:fontFamily="Raleway"
+								android:textSize="12sp"
+								android:textColor="@color/view_profile_color"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="2dp"
+								android:layout_width="83dp"
+								android:layout_height="20dp"
+								android:text="@string/view_profile_ek7_string"
+								 />
+
+
+							<RelativeLayout android:id="@+id/arrow_right_ek15"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="62dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek24"
+									android:src="@drawable/vector_ek24"
+									android:contentDescription="vector_ek24"
+									 android:layout_marginStart="1.5dp"
+									android:layout_marginTop="2.25dp"
+									android:layout_width="12dp"
+									android:layout_height="10.49dp" />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<TextView android:id="@+id/_1_00___2_30_pm_ek3"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="86dp"
+							android:layout_width="95dp"
+							android:layout_height="20dp"
+							android:text="@string/_1_00___2_30_pm_ek3_string"
+							 />
+
+						<TextView android:id="@+id/friday__dec__9_ek3"
+							android:fontFamily="Raleway"
+							android:textSize="12sp"
+							android:textColor="@color/rectangle_60_color"
+							android:layout_marginLeft="120dp"
+							android:layout_marginTop="72dp"
+							android:layout_width="92dp"
+							android:layout_height="20dp"
+							android:text="@string/friday__dec__9_ek3_string"
+							 />
+
+						<View   android:id="@+id/pexels_photo_9382975_2_ek7"
+							android:background="@drawable/pexels_photo_9382975_2_ek7_shape"
+							 android:alpha="0.20000000298023"
+							 android:layout_marginStart="32dp"
+							android:layout_marginTop="20dp"
+							android:layout_width="75dp"
+							android:layout_height="75dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek5"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek25"
+						android:src="@drawable/vector_ek25"
+						android:contentDescription="vector_ek25"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/let_s_talk_ek6"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/rectangle_60_color"
+					android:layout_marginLeft="114dp"
+					android:layout_marginTop="173dp"
+					android:layout_width="198dp"
+					android:layout_height="61dp"
+					android:text="@string/let_s_talk_ek6_string"
+					 />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

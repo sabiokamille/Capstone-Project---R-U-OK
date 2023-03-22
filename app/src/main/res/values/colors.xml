@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- profile colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__profile_ek2_color">#41709D</color>
+	<color name="rectangle_60_color">#FFFFFF</color>
+	<color name="rectangle_64_color">#D78B73</color>
+	<color name="rectangle_57_color">#C7D9F8</color>
+	<color name="search____color">#0B090A</color>
+	<color name="rectangle_57_ek1_color">#D68166</color>
+	<color name="rectangle_57_ek2_color">#B8DBDC</color>
+	<color name="rectangle_57_ek3_color">#F7C79D</color>
+	<color name="rectangle_57_ek5_color">#86AAE4</color>
+	<color name="rectangle_57_ek7_color">#EFCCAC</color>
+	<color name="line_1_color">#BEBEBE</color>
+	<color name="rectangle_56_color">#000000</color>
+	<color name="rectangle_64_ek3_color">#41709D</color>
+	<color name="rectangle_56_ek8_color">#7595B4</color>
+	<color name="view_profile_color">#2B5B89</color>
+</resources>

@@ -1,0 +1,143 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/workshops" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_workshops_ek3"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__workshops_ek4"
+					android:background="@drawable/_bg__workshops_ek4_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+				<View   android:id="@+id/white_base_ek5"
+					android:background="@drawable/white_base_ek5_shape"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="301dp"
+					android:layout_width="432dp"
+					android:layout_height="615dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek1"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek13"
+						android:src="@drawable/vector_ek13"
+						android:contentDescription="vector_ek13"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/w_text"
+					android:layout_marginTop="366dp"
+					android:layout_marginStart="15dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/drop_in_workshops_training_are_another_way_for_community_based_counselors_to_connect_with_the_staff_faculty_and_students_to_help_them_cultivate_skills_for_managing_their_mental_health__this_may_include_meditation_mindfulness_strategies__organizational_skills__interpersonal_interactions__coping_with_academia__or_anything_that_may_be_suggested_by_staff_faculty_or_students_as_a_need_for_their_given_community__unless_otherwise_stated__students_can_drop_in_to_a_workshop__in_person_or_virtual___and_they_do_not_have_to_register_or_sign_up_in_advance_"
+						android:fontFamily="Raleway"
+						android:textSize="14sp"
+						android:textColor="@color/search____color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="5dp"
+						android:layout_width="396dp"
+						android:layout_height="371dp"
+						android:text="@string/drop_in_workshops_training_are_another_way_for_community_based_counselors_to_connect_with_the_staff_faculty_and_students_to_help_them_cultivate_skills_for_managing_their_mental_health__this_may_include_meditation_mindfulness_strategies__organizational_skills__interpersonal_interactions__coping_with_academia__or_anything_that_may_be_suggested_by_staff_faculty_or_students_as_a_need_for_their_given_community__unless_otherwise_stated__students_can_drop_in_to_a_workshop__in_person_or_virtual___and_they_do_not_have_to_register_or_sign_up_in_advance__string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/workshops_training"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/rectangle_60_color"
+					android:layout_marginLeft="14dp"
+					android:layout_marginTop="157dp"
+					android:layout_width="399dp"
+					android:layout_height="61dp"
+					android:text="@string/workshops_training_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/view_times_ek1"
+					android:layout_marginTop="793dp"
+					android:layout_marginStart="68dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64_ek4"
+						android:background="@drawable/rectangle_64_ek4_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="250dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/no_upcoming_events"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="35dp"
+						android:layout_marginTop="16dp"
+						android:layout_width="187dp"
+						android:layout_height="27dp"
+						android:text="@string/no_upcoming_events_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

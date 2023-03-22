@@ -1,0 +1,143 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/outreach" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_outreach_ek7"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__outreach_ek8"
+					android:background="@drawable/_bg__outreach_ek8_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+				<View   android:id="@+id/white_base_ek6"
+					android:background="@drawable/white_base_ek6_shape"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="301dp"
+					android:layout_width="432dp"
+					android:layout_height="615dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek2"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek14"
+						android:src="@drawable/vector_ek14"
+						android:contentDescription="vector_ek14"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/o_text"
+					android:layout_marginTop="397dp"
+					android:layout_marginStart="40dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/outreaches_are_efforts_to_engage_the_rutgers_community_about_mental_health_and_the_services_that_are_provided_by_caps__these_are_usually_done_in_collaboration_with_different_departments_during_different_events_or_programs_that_may_be_taking_place__or_by_request_"
+						android:fontFamily="Raleway"
+						android:textSize="14sp"
+						android:textColor="@color/search____color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="5dp"
+						android:layout_width="350dp"
+						android:layout_height="182dp"
+						android:text="@string/outreaches_are_efforts_to_engage_the_rutgers_community_about_mental_health_and_the_services_that_are_provided_by_caps__these_are_usually_done_in_collaboration_with_different_departments_during_different_events_or_programs_that_may_be_taking_place__or_by_request__string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/outreach_ek9"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/rectangle_60_color"
+					android:layout_marginLeft="125dp"
+					android:layout_marginTop="154dp"
+					android:layout_width="203dp"
+					android:layout_height="61dp"
+					android:text="@string/outreach_ek9_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/view_times_ek2"
+					android:layout_marginTop="793dp"
+					android:layout_marginStart="68dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64_ek5"
+						android:background="@drawable/rectangle_64_ek5_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="250dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/no_upcoming_events_ek1"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="39dp"
+						android:layout_marginTop="15dp"
+						android:layout_width="178dp"
+						android:layout_height="29dp"
+						android:text="@string/no_upcoming_events_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

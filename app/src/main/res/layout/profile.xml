@@ -1,0 +1,232 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/profile" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_profile_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__profile_ek2"
+					android:background="@drawable/_bg__profile_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+
+				<RelativeLayout android:id="@+id/profile_focused_nav_bar"
+					android:layout_marginTop="831dp"
+					android:layout_marginStart="-3dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_60"
+						android:background="@drawable/rectangle_60_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="392dp"
+						android:layout_height="71dp" />
+
+
+					<RelativeLayout android:id="@+id/mingcute_search_2_line"
+						android:layout_marginTop="13dp"
+						android:layout_marginStart="289dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/magvector"
+							android:src="@drawable/magvector"
+							android:contentDescription="magvector"
+							 android:layout_marginStart="5dp"
+							android:layout_marginTop="5dp"
+							android:layout_width="30dp"
+							android:layout_height="30dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/material_symbols_home_outline_rounded"
+						android:layout_marginTop="13dp"
+						android:layout_marginStart="175dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/homevector"
+							android:src="@drawable/homevector"
+							android:contentDescription="homevector"
+							 android:layout_marginStart="6.67dp"
+							android:layout_marginTop="5.83dp"
+							android:layout_width="26.67dp"
+							android:layout_height="29.17dp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/fluent_person_16_filled"
+						android:layout_marginTop="13dp"
+						android:layout_marginStart="61dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/profilevector"
+							android:src="@drawable/profilevector"
+							android:contentDescription="profilevector"
+							 android:layout_marginStart="7.5dp"
+							android:layout_marginTop="3.75dp"
+							android:layout_width="25dp"
+							android:layout_height="31.25dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/begin_survey"
+					android:layout_marginTop="281dp"
+					android:layout_marginStart="40dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64"
+						android:background="@drawable/rectangle_64_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="305dp"
+						android:layout_height="72dp" />
+
+					<TextView android:id="@+id/mental_health_survey"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="24sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="22dp"
+						android:layout_width="278.08dp"
+						android:layout_height="44dp"
+						android:text="@string/mental_health_survey_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/begin_survey_ek1"
+					android:layout_marginTop="592dp"
+					android:layout_marginStart="40dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64_ek1"
+						android:background="@drawable/rectangle_64_ek1_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="305dp"
+						android:layout_height="72dp" />
+
+					<TextView android:id="@+id/alcohol_substance_screening"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="20sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="16dp"
+						android:layout_width="278.08dp"
+						android:layout_height="44dp"
+						android:text="@string/alcohol_substance_screening_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/book_appointment"
+					android:layout_marginTop="437dp"
+					android:layout_marginStart="40dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64_ek2"
+						android:background="@drawable/rectangle_64_ek2_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="305dp"
+						android:layout_height="72dp" />
+
+					<TextView android:id="@+id/book_appointment_ek1"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="24sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="18dp"
+						android:layout_marginTop="23dp"
+						android:layout_width="278.08dp"
+						android:layout_height="44dp"
+						android:text="@string/book_appointment_ek1_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/welcome"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="40sp"
+					android:textColor="@color/rectangle_60_color"
+					android:layout_marginLeft="55dp"
+					android:layout_marginTop="121dp"
+					android:layout_width="286.08dp"
+					android:layout_height="55dp"
+					android:text="@string/welcome_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

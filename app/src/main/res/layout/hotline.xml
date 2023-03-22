@@ -1,0 +1,124 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/hotline" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_hotline_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__hotline_ek2"
+					android:background="@drawable/_bg__hotline_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek6"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek26"
+						android:src="@drawable/vector_ek26"
+						android:contentDescription="vector_ek26"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_120"
+					android:layout_marginTop="175dp"
+					android:layout_marginStart="-1dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/white_base_ek10"
+						android:background="@drawable/white_base_ek10_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="389dp"
+						android:layout_height="563dp" />
+
+
+					<RelativeLayout android:id="@+id/hotline_text"
+						android:layout_marginTop="46dp"
+						android:layout_marginStart="28dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<TextView android:id="@+id/national_crisis_text_line__text_hello_to_741741_nj_hope_line__suicide_prevention___855_654_6735_988_suicide_and_crisis_lifeline__call_or_text_to_988_acute_psychiatric_service__aps___855_515_5700"
+							android:fontFamily="Raleway"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textSize="20sp"
+							android:textColor="@color/rectangle_56_color"
+							android:layout_marginLeft="-3dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="351dp"
+							android:layout_height="486.58dp"
+							android:text="@string/national_crisis_text_line__text_hello_to_741741_nj_hope_line__suicide_prevention___855_654_6735_988_suicide_and_crisis_lifeline__call_or_text_to_988_acute_psychiatric_service__aps___855_515_5700_string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/hotline_numbers"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="40sp"
+					android:textColor="@color/rectangle_56_color"
+					android:layout_marginLeft="55dp"
+					android:layout_marginTop="188dp"
+					android:layout_width="287dp"
+					android:layout_height="117dp"
+					android:text="@string/hotline_numbers_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

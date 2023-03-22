@@ -1,0 +1,141 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		profile
+	 *	@date 		Wednesday 22nd of March 2023 12:53:37 AM
+	 *	@title 		Wireframes
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/let_s_talk" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_let_s_talk_ek3"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__let_s_talk_ek4"
+					android:background="@drawable/_bg__let_s_talk_ek4_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="385dp"
+					android:layout_height="900dp" />
+
+				<View   android:id="@+id/white_base_ek7"
+					android:background="@drawable/white_base_ek7_shape"
+					 android:layout_marginStart="-2dp"
+					android:layout_marginTop="301dp"
+					android:layout_width="432dp"
+					android:layout_height="615dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek3"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek15"
+						android:src="@drawable/vector_ek15"
+						android:contentDescription="vector_ek15"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/lt_text"
+					android:layout_marginTop="401dp"
+					android:layout_marginStart="13dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/let_s_talk_is_a_confidential_consult_space_for_students_to_discuss_anything_they_are_struggling_with_in_a_given_moment_without_the_documentation_of_a_therapy_session__it_also_creates_an_opportunity_for_students_to_identify_if_they_would_be_interested_in_therapy__as_many_people_are_skeptical_due_to_the_stigma_surrounding_mental_health__let_s_talk_sessions_are_available_in_person_or_by_phone__walk_ins_are_welcome__however__appointments_are_highly_recommended__please_note_that_appointments_will_be_prioritized_before_walk_ins_"
+						android:fontFamily="Raleway"
+						android:textSize="14sp"
+						android:textColor="@color/search____color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="5dp"
+						android:layout_width="392dp"
+						android:layout_height="272dp"
+						android:text="@string/let_s_talk_is_a_confidential_consult_space_for_students_to_discuss_anything_they_are_struggling_with_in_a_given_moment_without_the_documentation_of_a_therapy_session__it_also_creates_an_opportunity_for_students_to_identify_if_they_would_be_interested_in_therapy__as_many_people_are_skeptical_due_to_the_stigma_surrounding_mental_health__let_s_talk_sessions_are_available_in_person_or_by_phone__walk_ins_are_welcome__however__appointments_are_highly_recommended__please_note_that_appointments_will_be_prioritized_before_walk_ins__string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/let_s_talk_ek5"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:textSize="36sp"
+					android:textColor="@color/rectangle_60_color"
+					android:layout_marginLeft="114dp"
+					android:layout_marginTop="158dp"
+					android:layout_width="198dp"
+					android:layout_height="61dp"
+					android:text="@string/let_s_talk_ek5_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/view_times_ek3"
+					android:layout_marginTop="793dp"
+					android:layout_marginStart="68dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64_ek6"
+						android:background="@drawable/rectangle_64_ek6_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="250dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/view_walk_in_schedule"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_60_color"
+						android:layout_marginLeft="24dp"
+						android:layout_marginTop="13dp"
+						android:layout_width="208dp"
+						android:layout_height="33dp"
+						android:text="@string/view_walk_in_schedule_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

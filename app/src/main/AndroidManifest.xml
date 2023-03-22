@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.example.testlinks" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".profile_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"
+		android:exported="true"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="com.example.testlinks.resources___main_page___top_page_activity"></activity>
+			<activity android:name="com.example.testlinks.resources___main_page___bottom_page_activity"></activity>
+			<activity android:name="com.example.testlinks.home___up_activity"></activity>
+			<activity android:name="com.example.testlinks.home___down_activity"></activity>
+			<activity android:name="com.example.testlinks.group_therapy_activity"></activity>
+			<activity android:name="com.example.testlinks.workshops_activity"></activity>
+			<activity android:name="com.example.testlinks.outreach_activity"></activity>
+			<activity android:name="com.example.testlinks.let_s_talk_activity"></activity>
+			<activity android:name="com.example.testlinks.gt_times_activity"></activity>
+			<activity android:name="com.example.testlinks.lt_times_activity"></activity>
+			<activity android:name="com.example.testlinks.hotline_activity"></activity>
+	</application>
+
+</manifest>
+	
+	
