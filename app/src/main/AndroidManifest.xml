@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.example.afinal" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".home_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"
+		android:exported="true"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="com.example.afinal.appointments_activity"></activity>
+			<activity android:name="com.example.afinal.events_activity"></activity>
+			<activity android:name="com.example.afinal.gt_times_activity"></activity>
+			<activity android:name="com.example.afinal.lt_times_activity"></activity>
+			<activity android:name="com.example.afinal.resources___main_page___top_page_activity"></activity>
+			<activity android:name="com.example.afinal.group_therapy_activity"></activity>
+			<activity android:name="com.example.afinal.workshops_activity"></activity>
+			<activity android:name="com.example.afinal.outreach_activity"></activity>
+			<activity android:name="com.example.afinal.let_s_talk_activity"></activity>
+	</application>
+
+</manifest>
+	
+	

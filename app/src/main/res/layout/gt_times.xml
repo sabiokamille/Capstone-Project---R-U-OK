@@ -1,0 +1,389 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Wednesday 12th of April 2023 03:38:01 AM
+	 *	@title 		v2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/gt_times" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_gt_times_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__gt_times_ek2"
+					android:background="@drawable/_bg__gt_times_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+				<View   android:id="@+id/white_base"
+					android:background="@drawable/white_base_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="181dp"
+					android:layout_width="360dp"
+					android:layout_height="579dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek1"
+					android:layout_marginTop="64dp"
+					android:layout_marginStart="23dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek131"
+						android:src="@drawable/vector_ek131"
+						android:contentDescription="vector_ek131"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/group_therapy_ek1"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/journaling_button_color"
+					android:layout_marginLeft="34dp"
+					android:layout_marginTop="114dp"
+					android:layout_width="300dp"
+					android:layout_height="41dp"
+					android:text="@string/group_therapy_ek1_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/frame_174"
+					android:layout_marginTop="221dp"
+					android:layout_marginStart="10dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/wendy_cook"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_62"
+							android:background="@drawable/rectangle_62_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="339dp"
+							android:layout_height="150dp" />
+
+						<ImageView android:id="@+id/screenshot_2023_02_13_at_10_03_2"
+							android:src="@drawable/screenshot_2023_02_13_at_10_03_2"
+							android:contentDescription="screenshot_2023_02_13_at_10_03_2"
+							 android:layout_marginStart="22dp"
+							android:layout_marginTop="25dp"
+							android:layout_width="93.39dp"
+							android:layout_height="101.69dp" />
+
+
+						<RelativeLayout android:id="@+id/group_12574"
+							android:layout_marginTop="53dp"
+							android:layout_marginStart="158dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/clarity_heart_line"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="155dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<ImageView android:id="@+id/vector_ek132"
+									android:src="@drawable/vector_ek132"
+									android:contentDescription="vector_ek132"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="23.35dp"
+									android:layout_height="21.19dp" />
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/material_symbols_star_rate_rounded"
+								android:layout_marginTop="75dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/group_12572"
+								android:layout_marginTop="2dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/clinical_psychologist"
+									android:fontFamily="Raleway"
+									android:textStyle="italic"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="33dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/clinical_psychologist_string"
+									 />
+
+								<TextView android:id="@+id/rutgers_university"
+									android:fontFamily="Raleway"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="20dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/rutgers_university_string"
+									 />
+
+								<TextView android:id="@+id/dr__wendy_cook"
+									android:fontFamily="Raleway"
+									android:textStyle="bold"
+									android:textSize="16sp"
+									android:textColor="@color/dr__wendy_cook_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="175.97dp"
+									android:layout_height="24.56dp"
+									android:text="@string/dr__wendy_cook_string"
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/mike_hullman"
+						android:layout_marginTop="175dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_62_ek1"
+							android:background="@drawable/rectangle_62_ek1_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="339dp"
+							android:layout_height="150dp" />
+
+
+						<RelativeLayout android:id="@+id/group_12574_ek1"
+							android:layout_marginTop="25dp"
+							android:layout_marginStart="22dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<ImageView android:id="@+id/screenshot_2023_02_13_at_10_03_1"
+								android:src="@drawable/screenshot_2023_02_13_at_10_03_1"
+								android:contentDescription="screenshot_2023_02_13_at_10_03_1"
+								 android:layout_marginStart="0dp"
+								android:layout_marginTop="0dp"
+								android:layout_width="93.39dp"
+								android:layout_height="101.69dp" />
+
+
+							<RelativeLayout android:id="@+id/material_symbols_star_rate_rounded_ek1"
+								android:layout_marginTop="78dp"
+								android:layout_marginStart="112dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/group_12572_ek1"
+								android:layout_marginTop="29dp"
+								android:layout_marginStart="136dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/clinical_psychologist_ek1"
+									android:fontFamily="Raleway"
+									android:textStyle="italic"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="33dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/clinical_psychologist_ek1_string"
+									 />
+
+								<TextView android:id="@+id/rutgers_university_ek1"
+									android:fontFamily="Raleway"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="19dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/rutgers_university_ek1_string"
+									 />
+
+								<TextView android:id="@+id/dr__mike_hullman"
+									android:fontFamily="Raleway"
+									android:textStyle="bold"
+									android:textSize="16sp"
+									android:textColor="@color/dr__wendy_cook_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="175.97dp"
+									android:layout_height="24.56dp"
+									android:text="@string/dr__mike_hullman_string"
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/sara_johnson"
+						android:layout_marginTop="350dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/rectangle_62_ek2"
+							android:background="@drawable/rectangle_62_ek2_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="339dp"
+							android:layout_height="150dp" />
+
+
+						<RelativeLayout android:id="@+id/group_12574_ek2"
+							android:layout_marginTop="55dp"
+							android:layout_marginStart="157dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+
+							<RelativeLayout android:id="@+id/material_symbols_star_rate_rounded_ek2"
+								android:layout_marginTop="74dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+							</RelativeLayout>
+
+
+							<RelativeLayout android:id="@+id/group_12572_ek2"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<TextView android:id="@+id/clinical_psychologist_ek2"
+									android:fontFamily="Raleway"
+									android:textStyle="italic"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="33dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/clinical_psychologist_ek2_string"
+									 />
+
+								<TextView android:id="@+id/rutgers_university_ek2"
+									android:fontFamily="Raleway"
+									android:textSize="12sp"
+									android:textColor="@color/completed_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="19dp"
+									android:layout_width="172.02dp"
+									android:layout_height="17.32dp"
+									android:text="@string/rutgers_university_ek2_string"
+									 />
+
+								<TextView android:id="@+id/dr__sara_johnson"
+									android:fontFamily="Raleway"
+									android:textStyle="bold"
+									android:textSize="16sp"
+									android:textColor="@color/dr__wendy_cook_color"
+									android:layout_marginLeft="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="175.97dp"
+									android:layout_height="24.56dp"
+									android:text="@string/dr__sara_johnson_string"
+									 />
+
+							</RelativeLayout>
+
+						</RelativeLayout>
+
+						<ImageView android:id="@+id/screenshot_2023_02_13_at_10_40_1"
+							android:src="@drawable/screenshot_2023_02_13_at_10_40_1"
+							android:contentDescription="screenshot_2023_02_13_at_10_40_1"
+							 android:layout_marginStart="22dp"
+							android:layout_marginTop="24dp"
+							android:layout_width="93.39dp"
+							android:layout_height="101.69dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

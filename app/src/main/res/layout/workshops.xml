@@ -1,0 +1,141 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Wednesday 12th of April 2023 03:38:01 AM
+	 *	@title 		v2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/workshops" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_workshops_ek3"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__workshops_ek4"
+					android:background="@drawable/_bg__workshops_ek4_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+				<View   android:id="@+id/white_base_ek3"
+					android:background="@drawable/white_base_ek3_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="189dp"
+					android:layout_width="360dp"
+					android:layout_height="571dp" />
+
+
+				<RelativeLayout android:id="@+id/arrow_left_ek5"
+					android:layout_marginTop="64dp"
+					android:layout_marginStart="23dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek136"
+						android:src="@drawable/vector_ek136"
+						android:contentDescription="vector_ek136"
+						 android:layout_marginStart="3.75dp"
+						android:layout_marginTop="6.25dp"
+						android:layout_width="22.5dp"
+						android:layout_height="17.5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/w_text"
+					android:layout_marginTop="251dp"
+					android:layout_marginStart="27dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/drop_in_workshops_training_are_another_way_for_community_based_counselors_to_connect_with_the_staff_faculty_and_students_to_help_them_cultivate_skills_for_managing_their_mental_health__this_may_include_meditation_mindfulness_strategies__organizational_skills__interpersonal_interactions__coping_with_academia__or_anything_that_may_be_suggested_by_staff_faculty_or_students_as_a_need_for_their_given_community__unless_otherwise_stated__students_can_drop_in_to_a_workshop__in_person_or_virtual___and_they_do_not_have_to_register_or_sign_up_in_advance_"
+						android:fontFamily="Raleway"
+						android:textSize="14sp"
+						android:textColor="@color/group_therapy_is_often_the_best_way_to_work_on_problems__especially_when_the_problems_deal_with_issues_about_your_relationships__being_a_member_of_a_group_allows_you_to_interact_with_peers_who_are_not_part_of_your_everyday_life__these_interactions__along_with_those_of_the_therapist__can_give_you_useful_feedback_that_you_may_not_get_from_friends_or_family__group_is_also_a_safe_environment_where_you_can_safely_try_out_different_ways_of_interacting_with_others__such_as_initiating_conversations_or_improving_your_listening_skills__the_specific_groups_available_each_semester_vary_in_theme_and_time_commitment__but_in_recent_semesters_we_have_offered_groups_for_students_struggling_with_anxiety__including_social_anxiety___depression__emotional_regulation__eating_issues__grief_and_loss__sexual_identity__and_general_interpersonal_issues_for_both_undergraduate_and_graduate_students__color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="-7dp"
+						android:layout_width="336dp"
+						android:layout_height="329dp"
+						android:text="@string/drop_in_workshops_training_are_another_way_for_community_based_counselors_to_connect_with_the_staff_faculty_and_students_to_help_them_cultivate_skills_for_managing_their_mental_health__this_may_include_meditation_mindfulness_strategies__organizational_skills__interpersonal_interactions__coping_with_academia__or_anything_that_may_be_suggested_by_staff_faculty_or_students_as_a_need_for_their_given_community__unless_otherwise_stated__students_can_drop_in_to_a_workshop__in_person_or_virtual___and_they_do_not_have_to_register_or_sign_up_in_advance__string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/workshops_training"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:textSize="32sp"
+					android:textColor="@color/journaling_button_color"
+					android:layout_marginLeft="21dp"
+					android:layout_marginTop="112dp"
+					android:layout_width="356dp"
+					android:layout_height="54dp"
+					android:text="@string/workshops_training_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/view_times_ek1"
+					android:layout_marginTop="673dp"
+					android:layout_marginStart="55dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangle_64"
+						android:background="@drawable/rectangle_64_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="250dp"
+						android:layout_height="48dp" />
+
+					<TextView android:id="@+id/no_upcoming_events"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/journaling_button_color"
+						android:layout_marginLeft="35dp"
+						android:layout_marginTop="16dp"
+						android:layout_width="187dp"
+						android:layout_height="27dp"
+						android:text="@string/no_upcoming_events_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
