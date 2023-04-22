@@ -1,0 +1,147 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Saturday 22nd of April 2023 02:40:19 AM
+	 *	@title 		v2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/journal" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_journal_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__journal_ek2"
+					android:background="@drawable/_bg__journal_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+
+				<RelativeLayout android:id="@+id/material_symbols_hourglass_bottom"
+					android:layout_marginTop="348dp"
+					android:layout_marginStart="102dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek123"
+						android:src="@drawable/vector_ek123"
+						android:contentDescription="vector_ek123"
+						 android:layout_marginStart="25.83dp"
+						android:layout_marginTop="13dp"
+						android:layout_width="103.33dp"
+						android:layout_height="130dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/home_back_ek1"
+					android:layout_marginTop="16dp"
+					android:layout_marginStart="9dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/home_ek4"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:textSize="20sp"
+						android:textColor="@color/journaling_ek2_color"
+						android:layout_marginLeft="38dp"
+						android:layout_marginTop="2dp"
+						android:layout_width="99dp"
+						android:layout_height="39dp"
+						android:text="@string/home_ek4_string"
+						 />
+
+
+					<RelativeLayout android:id="@+id/arrow_left_ek1"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek124"
+							android:src="@drawable/vector_ek124"
+							android:contentDescription="vector_ek124"
+							 android:layout_marginStart="3.75dp"
+							android:layout_marginTop="6.25dp"
+							android:layout_width="22.5dp"
+							android:layout_height="17.5dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/the_journaling_feature_is_in_the_works___"
+					android:fontFamily="Raleway"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/journaling_button_color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="520dp"
+					android:layout_width="327dp"
+					android:layout_height="50.38dp"
+					android:text="@string/the_journaling_feature_is_in_the_works____string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/coming_soon"
+					android:layout_marginTop="144dp"
+					android:layout_marginStart="35dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/coming_soon___"
+						android:fontFamily="Sulphur Point"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="64sp"
+						android:textColor="@color/journaling_button_color"
+						android:layout_marginLeft="2dp"
+						android:layout_marginTop="41dp"
+						android:layout_width="301dp"
+						android:layout_height="173dp"
+						android:text="@string/coming_soon____string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

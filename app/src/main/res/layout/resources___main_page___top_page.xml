@@ -1,0 +1,273 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Saturday 22nd of April 2023 02:40:19 AM
+	 *	@title 		v2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/resources___main_page___top_page" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_resources___main_page___top_page_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__resources___main_page___top_page_ek2"
+					android:background="@drawable/_bg__resources___main_page___top_page_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="760dp" />
+
+
+				<RelativeLayout android:id="@+id/greeting"
+					android:layout_marginTop="91dp"
+					android:layout_marginStart="38dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/resources_for_you_"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="32sp"
+						android:textColor="@color/journaling_ek2_color"
+						android:layout_marginLeft="-5dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="305dp"
+						android:layout_height="54dp"
+						android:text="@string/resources_for_you__string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/alc_screening"
+					android:layout_marginTop="282dp"
+					android:layout_marginStart="188dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/alc_screening_ek1"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/screening_box"
+							android:background="@drawable/screening_box_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="159dp"
+							android:layout_height="191dp" />
+
+						<TextView android:id="@+id/alcohol__substance_screening"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="19sp"
+							android:gravity="center"
+							android:textColor="@color/journaling_button_color"
+							android:layout_width="100.22dp"
+							android:layout_height="78.46dp"
+							android:layout_centerInParent="true"
+							android:text= "@string/alcohol__substance_screening_string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/apps"
+					android:layout_marginTop="514dp"
+					android:layout_marginStart="188dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/apps_ek1"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/apps_box"
+							android:background="@drawable/apps_box_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="159dp"
+							android:layout_height="185dp" />
+
+						<TextView android:id="@+id/self_help_apps"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:textSize="20sp"
+							android:textColor="@color/journaling_button_color"
+							android:layout_width="137dp"
+							android:layout_height="30.59dp"
+							android:layout_centerInParent="true"
+							android:text="@string/self_help_apps_string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/meditation"
+					android:layout_marginTop="193dp"
+					android:layout_marginStart="12dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/meditation_ek1"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/meditation_box"
+							android:background="@drawable/meditation_box_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="161dp"
+							android:layout_height="177dp" />
+
+						<TextView android:id="@+id/meditation_ek2"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:gravity="center"
+							android:textSize="20sp"
+							android:textColor="@color/journaling_button_color"
+							android:layout_centerInParent="true"
+							android:layout_width="135dp"
+							android:layout_height="34dp"
+							android:text="@string/meditation_ek2_string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/video_resources"
+					android:layout_marginTop="412dp"
+					android:layout_marginStart="12dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/video_resources_ek1"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/vid_res_box"
+							android:background="@drawable/vid_res_box_shape"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="161dp"
+							android:layout_height="185dp" />
+
+						<TextView android:id="@+id/vid_resources"
+							android:fontFamily="Raleway"
+							android:textStyle="bold"
+							android:gravity="center"
+							android:layout_centerInParent="true"
+							android:textSize="20sp"
+							android:textColor="@color/journaling_button_color"
+							android:layout_width="138dp"
+							android:layout_height="80.59dp"
+							android:text="@string/vid_resources_string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/home_back_ek3"
+					android:layout_marginTop="25dp"
+					android:layout_marginStart="8dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/home_ek6"
+						android:fontFamily="Raleway"
+						android:textStyle="bold"
+						android:textSize="20sp"
+						android:textColor="@color/journaling_ek2_color"
+						android:layout_marginLeft="38dp"
+						android:layout_marginTop="2dp"
+						android:layout_width="99dp"
+						android:layout_height="39dp"
+						android:text="@string/home_ek6_string"
+						 />
+
+
+					<RelativeLayout android:id="@+id/arrow_left_ek5"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek133"
+							android:src="@drawable/vector_ek133"
+							android:contentDescription="vector_ek133"
+							 android:layout_marginStart="3.75dp"
+							android:layout_marginTop="6.25dp"
+							android:layout_width="22.5dp"
+							android:layout_height="17.5dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
