@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name = "yellow">#FFFF00</color>
+    <color name = "ivory">#FFFFF0</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="violet">#EE82EE</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="purple">#800080</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="app_blue">#335C8B</color>
+    <color name="red">#C53040</color>
+    <color name="light_red">#DB5A6B</color>
+    <color name="grey_red">#B2AAAA</color>
+    <color name="grey">#A8A8A8</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__home_ek2_color">#F5F5F5</color>
+    <color name="journaling_button_color">#FFFFFF</color>
+    <color name="journaling_ek2_color">#000000</color>
+    <color name="free_therapy_rect_color">#B1AAAA</color>
+    <color name="_bg__appointments_ek2_color">#FF0000</color>
+    <color name="completed_color">#616161</color>
+    <color name="dr__wendy_cook_color">#39A7BF</color>
+    <color name="april_20__2023___12_30pm_color">#171A1D</color>
+    <color name="screening_box_color">#B8DBDC</color>
+    <color name="apps_box_color">#F7C79D</color>
+    <color name="meditation_box_color">#F89393</color>
+    <color name="vid_res_box_color">#C7D9F8</color>
+    <color name="group_therapy_is_often_the_best_way_to_work_on_problems__especially_when_the_problems_deal_with_issues_about_your_relationships__being_a_member_of_a_group_allows_you_to_interact_with_peers_who_are_not_part_of_your_everyday_life__these_interactions__along_with_those_of_the_therapist__can_give_you_useful_feedback_that_you_may_not_get_from_friends_or_family__group_is_also_a_safe_environment_where_you_can_safely_try_out_different_ways_of_interacting_with_others__such_as_initiating_conversations_or_improving_your_listening_skills__the_specific_groups_available_each_semester_vary_in_theme_and_time_commitment__but_in_recent_semesters_we_have_offered_groups_for_students_struggling_with_anxiety__including_social_anxiety___depression__emotional_regulation__eating_issues__grief_and_loss__sexual_identity__and_general_interpersonal_issues_for_both_undergraduate_and_graduate_students__color">#0B090A</color>
+    <color name="view_schedule_rect_color">#FF8C8C</color>
+    <color name="rectangle_64_color">#666666</color>
+
+
+</resources>

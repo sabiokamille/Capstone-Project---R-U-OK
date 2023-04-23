@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RUOKAPP"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".ExtraServices.appointments_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.events_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.group_therapy_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.gt_times_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.home_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.journal_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.let_s_talk_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.lt_times_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.resources___main_page___top_page_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.outreach_activity"
+            android:exported="false"/>
+        <activity
+            android:name=".ExtraServices.workshops_activity"
+            android:exported="false"/>
+
+        <activity
+            android:name=".Extra.RunApp"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".Extra.NoteDetails"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".Service.NoteActivity"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".Extra.Registration"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+
+        <activity
+            android:name=".Service.BookingActivity"
+            android:exported="false"/>
+
+        <activity
+            android:name=".Service.HomeActivity"
+            android:exported="false"/>
+
+
+
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Material3.Light.NoActionBar">
+
+
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
